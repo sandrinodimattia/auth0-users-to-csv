@@ -8,7 +8,7 @@ Small tool to export all of your Auth0 users to a CSV file. This is useful if yo
  2. In the left menu, generate a token with the `read:users` scope.
  4. Save this information in the config.json file
 
-## Exporting your logs
+## Exporting your users
 
  1. Install Node.js 4.0 or higher: https://nodejs.org/en/download/
  2. Clone/Download this repository
