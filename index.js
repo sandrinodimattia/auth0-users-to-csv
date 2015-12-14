@@ -38,7 +38,9 @@ const done = function() {
       email: u.email || '',
       created_at: u.created_at || '',
       updated_at: u.updated_at || '',
-      logins_count: u.logins_count || 0
+      logins_count: u.logins_count || 0,
+      last_login: u.last_login || '',
+      last_ip: u.last_ip || ''
     };
   });
 

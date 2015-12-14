@@ -28,4 +28,6 @@ email
 created_at
 updated_at
 logins_count
+last_login
+last_ip
 ```
